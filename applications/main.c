@@ -12,7 +12,7 @@
 #include <board.h>
 #include <rtdevice.h>
 
-#define DBG_TAG "main"
+#define DBG_TAG "main.1"
 #define DBG_LVL DBG_LOG
 #include <rtdbg.h>
 
